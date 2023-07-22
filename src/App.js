@@ -43,7 +43,7 @@ function App() {
 <div className='col-sm-12'>
 <ul>
   <li><a href="https://www.google.com/search?sxsrf=AB5stBjkfPKuIMrS6W0uV2P0GZgMuGMsvg:1690017606137&q=tomatos&tbm=isch&sa=X&ved=2ahUKEwiXws-Y_qGAAxXCQPUHHf89DT4Q0pQJegQIDRAB&biw=1366&bih=667&dpr=1" target='_blank'>tomato</a></li>
-  <li><a>bengan</a></li>
+  <li><a href="https://www.google.com/search?sxsrf=AB5stBjKgEk9fOjs7nA3VhTGDMkJK_Pqtw:1690020864024&q=bengan+images&tbm=isch&sa=X&ved=2ahUKEwj9_4yqiqKAAxXKbGwGHWcGB0QQ0pQJegQIDBAB&biw=1003&bih=667&dpr=1" target="_blank">bengan</a></li>
   <li><a>sambhar</a></li>
   <li><a>aaloo</a></li>
 </ul>
